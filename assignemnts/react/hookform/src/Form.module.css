@@ -25,3 +25,8 @@ form {
     margin: 0 auto;
     width: 30%;
 }
+.errorm{
+    color: red;
+    border-bottom: 10px white;
+    font-weight: 500;
+}

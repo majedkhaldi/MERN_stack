@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: rebeccapurple;
+    padding: 3rem;
+}
+label, input {
+    margin: 1rem;
+}  
+input{
+    border: 2px solid yellow;
+    border-radius: 10%;
+}
+.answer{
+    color: green;
+}
+.field{
+    padding: 0.5rem;
+    background-color: rgb(204, 193, 180);
+    margin: 1rem;
+    width: 100%;
+    text-align: center;
+}
+form {
+    margin: 0 auto;
+    width: 30%;
+}
